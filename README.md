@@ -18,3 +18,13 @@
 <img src="https://img.shields.io/badge/Java-F45E3F?style=for-the-badge&logo=coffeescript&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 </div>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<div align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkdkdkdk555&show_icons=true&theme=radical)
+
+</div>
