@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=UKHYEON'S%20GITHUB&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=220&section=header&text=UkhyeonPark&fontSize=50&animation=blinking&fontAlign=70&fontAlignY=35&rotate=15)
